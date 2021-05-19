@@ -1,0 +1,15 @@
+---
+title: "Gloomhaven: Jaws of the Lion"
+tag: "Gloomhaven: Jaws of the Lion"
+excerpt: I never played Gloomhaven 1. I <i>have</i> played Into The Breach tho
+---
+
+## Thoughts on Gloomhaven: Jaws of the Lion
+
+Ok so basically Gloomhaven was a game that I used to meme on constantly. OH LOOK, a game that every single person and their mother rated 10/10 on boardgamegeek and also came straight from rating Pandemic Legacy Season 1 a 10/10. Wow look at how the only games they have played are just those two games. Interesting. I gave that first game a shot. And by shot I mean, the group I played it with memed on it until it was unplayable. "Look at this 10/10 game wow." "Wow this 10/10 hand management." "Wow 10/10 buying items from the shop." It was a game we doomed from the start...and it goes without saying that I only played the first scenario from that campaign with that group before I decided I'd give it another shot some other time.
+
+Fast forward two years to the beginning of quarantine. Issac Childres has blessed the masses with his follow-up to **Founders of Gloomhaven** (I _like_ this game btw) giving us The Second Coming of Christ Themself **Gloomhaven: Jaws of the Lion**, a supposed streamlined tutorialized version of the original (not Founders) to be debuted at Target and Target.com. At the discounted price of \$30.00, of course I picked it up to try a solo campaign. I knew it would be a similar experience to the original, and every man, woman, and Rahdo blessed the game with their blood so I guess it was worth trying at least. And boy this shit is preeeeeettty good.
+
+The first thing JotL does right is that solo mode is fucking challenging, and not in the way where monsters have too much health (they do) or that your weapons are too weak and brittle (they're not). The solo mode puts a clock in your face and tells you "Yeah, there's not enough time to solve this problem. Good luck." Because of how the intro deck is built and how much goddamn health the first enemies have, there is a good chance if you do not figure out how to play optimally, you will lose. You will lose. I don't know how important this fact is for people to hear, but this was the first board game where losing felt like a mandatory part of training. Just like in a rougelike has you die to learn the game, or in a Soulsborne where dying means learning, and not dying means getting better. Losing in Gloomhaven meant learning, otherwise, why the fuck would you play a game that literally wastes your time. When you lose in Gloomhaven you learn what not to do. You learn what combos to save, and what enemies to focus first. If you don't learn these things you're not playing the game. You're not going to win, at least with the difficulty tuned properly. It felt like playing a real good tactics game, and I can't wait to play more scenarios. idk about 10/10 redux though.
+
+The second thing that JotL does right is the fucking _spiral notebook_ that open up to become the hex map board thing you play your scenarios on. Uuuuuggggnnnhhhhh it's fucking fantastic.
