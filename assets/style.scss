@@ -722,7 +722,7 @@ Modules - reusable parts of our design
   white-space: nowrap;
   display: flex;
   justify-content: space-around;
-  @media screen and (max-width: 1170px) {
+  @media screen and (max-width: 1024px) {
     white-space: inherit;
     margin: inherit;
   }
