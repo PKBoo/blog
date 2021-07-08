@@ -8,13 +8,18 @@ layout: default
   <div>
     <p class="post_date">
       {{ page.date | date: "%B %e, %Y" }} | ≈ {{ page.content |
-      number_of_words }} words     
+      number_of_words }} words  
+
         {% if page.tags %} | 
         {% for tag in page.tags %}
           <a href="{{site.baseurl}}/games/#{{tag|slugify}} " class="post-tag">{{ tag }}</a>
       {% endfor %}
       {% endif %}
+
     </p>
+    <center>
+      <div class="entry">{{ page.excerpt }}</div>
+    </center>
     {% if page.last_modified_at %}
     <p
       class="author_title"
