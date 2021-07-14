@@ -1,0 +1,18 @@
+---
+title: "Paperback"
+tags: Paperback
+excerpt: paaaaperback wriiiiter.
+---
+
+## Thoughts on Paperback 
+#### and also deckbuilders in general
+
+This game should not work at all. The existance of the game makes complete sense: "It's _Dominion_ but you build words." is a sentence that makes most people understand the game in less than 5 seconds; but like actually playing this game reminds me how unthematic deckbuilders are and how little they engage the uninitiated.
+
+Like halfway through a 2 hour session someone dared utter the words "man I forgot how _long_ this game takes" and immediately it hit me how little this game does to actually teach you how to succeed. Deckbuilders will forever have this problem because of how varied the actions are and how incredibly disconnected they are from the objective of the game. Actually, the objective of the game has 2 degrees of separation. To win, you have to have the most points. To have the most points, you have to buy points. To buy points, you have to play a completely disjointed game of building a deck that gives you an engine to get money. And the game does nothing to give you hints at this disjoint or send you in the right direction. This is bad.
+
+It never feels good to know that you're playing a game badly, but in other euro games there is a progression of resource gathering and tempo that builds and builds until right before the game ends it feels like you're accomplishing the majority of your goals in an astonishingly small amount of time. You get to look back and think "oh I doing more than before and I realize now how slow the game was in the beginning wow the game has taught me tempo". Deckbuilders break this tempo by introducing a random deck of incredibly weak cards and giving players the task of parsing every potential future card to add to the deck and also figure out how to consistantly play the deck correctly by getting rid of your bad cards and only drawing your good cards repeatedly and also this is an incredibly hard thing to do in general and the game still is not giving you any hints that this is what you're supposed to do. You now have a deck full of cards that you didn't plan out and you're still playing as inefficiently as you were in your first turns and the game looks at you and dares utter the words ["Ya. You did not play efficiently so you will come last." And you turn and go "Really, Paperback? You're already not winning me over with your unevocative, dry, euro strategies." and the game goes "Ya! Is cool!"](https://youtu.be/pxftzFCIVtw?t=438) Sorry about that.
+
+Despite the grievances of deckbuilders, Paperback actually stands out among the many that I have played and felt uncompelled to try again, including Dominion. There's a key difference between wanting to build your deck around cards that say Buy+2 | Action+2 | Draw 4 and building your deck around spelling the word _generator_ every turn. One of them requires you to think the words _+Buy_, _+Action_, and _Draw 2_ are interesting, while spelling a big word with a bunch of cards is compelling on its own. And funny. Paperback lets you learn that certain words are strong, and building your deck to let you play the same words again and again is key to understanding deckbuilders in general, and I think that's somewhere between just ok and good in the grand scheme of deckbuilders.
+
+Despite all my age I am still just a Paul in a page.
