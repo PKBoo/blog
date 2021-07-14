@@ -1,6 +1,6 @@
 ---
 title: "Cooperation (feat. Townsfolk Tussle)"
-tags: Townsfolk Tussle
+tag: Townsfolk Tussle
 excerpt: I don't know when I started making my titles really long and dumb.
 ---
 
