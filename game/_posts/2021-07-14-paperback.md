@@ -1,7 +1,7 @@
 ---
 title: "Paperback"
 tag: [Paperback]
-excerpt: paaaaperback wriiiiter.
+excerpt: Despite all my age I am still just a Paul in a page.
 ---
 
 ## Thoughts on Paperback 
@@ -15,5 +15,3 @@ Sidenote: It never feels good to know that you're playing a game badly, but in o
 Deckbuilders break this tempo by introducing a random deck of incredibly weak cards and giving players the task of parsing every potential future card to add to the deck and also figure out how to consistantly play the deck correctly by getting rid of your bad cards (unless you want to keep drawing bad cards and doing nothing all game) and only drawing your good cards repeatedly and also this is an incredibly hard thing to do in general and the game still is not giving you any hints that this is what you're supposed to do. You now have a deck full of cards that you didn't plan out and you're still playing as inefficiently as you were in your first turns and the game looks at you and dares utter the words ["Ya. You did not play efficiently so you will come last." And you turn and go "Really, Paperback? You're already not winning me over with your unevocative, dry, euro strategies." and the game goes "Ya! Is cool!"](https://youtu.be/pxftzFCIVtw?t=438) Sorry about that.
 
 Despite __my__ grievances of deckbuilders, Paperback actually stands out among the many that I have played and felt uncompelled to try again, including Dominion. There's a key difference between wanting to build your deck around cards that say __Buy+2__, __Action+2__, __Draw 4__ and building your deck around spelling the word ___generator___ every turn. One of them requires you to read the words _+Buy_, _+Action_, and _Draw 2_ and think they're interesting, while spelling a big word with a bunch of cards makes the brain go fuzzy wuzzy. And big words go _brrrrrrr_. Paperback lets you learn that certain words are strong, and building your deck to let you play the same words again and again is key to understanding deckbuilders in general, and I think that understanding lies somewhere between just ok and good in the grand scheme of learning deckbuilders.
-
-Despite all my age I am still just a Paul in a page.
