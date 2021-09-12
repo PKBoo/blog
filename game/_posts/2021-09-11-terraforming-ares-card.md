@@ -9,7 +9,8 @@ excerpt: Same same, but different.
 i tried terraforming mars the card game.  
 they took every aspect i enjoyed of the original and removed them. there is no tension in any aspect of the game because everyone can get as much TR as they want from increasing the tracks as long as at the start of the turn it was not maxed.  
 it creates a situation where if someone doesn't max out a track all at once, the next turn someone will be able to take advantage of the fact that there's still 1 space left on the track and raise it by 5 or 6 to get even more points from it.  
-it's so silly and irredeemable that i house ruled that in cases like those we will take 2 actions at a time raising the tracks.  
+it's so silly and irredeemable that i house ruled that in cases like those we will take 2 actions at a time raising the tracks until it's maxed.  
+also the rules say that if you are somehow able to play a card that will let you meet the requirements of a second card you are able to play in the same phase, you are not allowed to play that card because you did not meet the requirements at the beginning of the phase. this is incredibly stupid.  
 also the game came down to a tie and even the thought of how tie breakers works is incredibly silly. the rules say that the total count of money, plants, and heat is the tie breaker but you can convert cards in hand to 3 money each at any time in the game so tie breaker is actually how many cards there were before the game ended, which could theoretically be infinite because there's no limit to your hand size during the round. the game is a farce.
 
 oh right, the worst part of the transition was that they removed the awards and milestones, removing all aspects of the race for awards, and the goals for end game scoring
