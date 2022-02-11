@@ -20,3 +20,6 @@ these are just how i feel about things in board games, from the perspective of s
 
 **but why skateboard?**  
 i'm sick
+
+also here's a thing i made  
+<script src="{{ site.baseurl }}{% link assets/js/grandcarnivalrandomizer.js %}" </script>
