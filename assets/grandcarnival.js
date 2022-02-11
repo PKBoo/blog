@@ -1,6 +1,6 @@
 var medium = ['3L.png', '3L.png', '3L.png', '3L.png','3L.png','3I.png','3I.png','3I.png','3I.png','3I.png']
 var large = ['4I.png','4I.png','4Z.png','4Z.png','4L.png','4L.png', '4O.png','4O.png','4T.png', '4T.png']
-var giant = ['5I.png','5U.png','5offZ.png','5evenZ.png','5evenL.png','5evenL.png', '5T.png', '5+.png','5off+.png', '5offT.png', '5offO.png', '5W.png']
+var giant = ['5I.png','5U.png','5offZ.png','5evenZ.png','5tallL.png','5evenL.png', '5T.png', '5+.png','5off+.png', '5offT.png', '5offO.png', '5W.png']
 var basepath = '../images/grandcarnival/'
 
 function newQuote(players) {
