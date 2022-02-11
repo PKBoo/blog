@@ -1,6 +1,8 @@
 ---
 layout: secret
 title: "Grand Carnival Randomizer"
+number: 6
+
 ---
 also here's a thing i made  
 <script src="{{ site.baseurl }}{% link assets/grandcarnivalrandomizer.js %}"> </script>
