@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: secret
 title: "Grand Carnival Randomizer"
 ---
 also here's a thing i made  
