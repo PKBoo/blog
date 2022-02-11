@@ -15,7 +15,7 @@ function newQuote(players) {
     }
 
 	shuffleArray(medium)
-    document.getElementById('mediumDisplay').innerHTML = 'Medium'
+    document.getElementById('mediumDisplay').innerHTML = ''
 
     var dismedium = medium.slice(0,players)
     dismedium.forEach(img => {
@@ -23,7 +23,7 @@ function newQuote(players) {
 	    document.getElementById('mediumDisplay').innerHTML += image
     })
 	shuffleArray(large)
-	document.getElementById('largeDisplay').innerHTML = 'Large'
+	document.getElementById('largeDisplay').innerHTML = ''
     var dislarge = large.slice(0,players)
     dislarge.forEach(img => {
         var image =  '<img src="' + basepath + img + '"' + ' alt="">';``
@@ -31,7 +31,7 @@ function newQuote(players) {
     })
 
 	shuffleArray(giant)
-	document.getElementById('giantDisplay').innerHTML = 'Giant'
+	document.getElementById('giantDisplay').innerHTML = ''
     var disgiant = giant.slice(0,players)
     disgiant.forEach(img => {
         var image =  '<img src="' + basepath + img + '"' + ' alt="">';``
