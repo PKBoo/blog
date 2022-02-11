@@ -20,16 +20,3 @@ these are just how i feel about things in board games, from the perspective of s
 
 **but why skateboard?**  
 i'm sick
-
-also here's a thing i made  
-<script src="{{ site.baseurl }}{% link assets/grandcarnivalrandomizer.js %}"> </script>
-<h1>Tiny Towns Randomizer</h1>
-<div id="blueDisplay">Cottage</div>
-<div id="orangeDisplay">Chapel</div>
-<div id="redDisplay">Farm</div>
-<div id="greenDisplay">Tavern</div>
-<div id="grayDisplay">Well</div>
-<div id="yellowDisplay">Theater</div>
-<div id="blackDisplay">Factory</div>
-
-<button onclick="newQuote()">Randomize</button>

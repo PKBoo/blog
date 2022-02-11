@@ -1,30 +1,23 @@
-var blues = ['Cottage']
-var oranges = ['Abbey', 'Chapel', 'Cloister', 'Temple']
-var reds = ['Farm','Granary','Greenhouse','Orchard']
-var greens = ['Almshouse','Inn','Feast Hall','Tavern']
-var grays = ['Fountain','Millstone','Shed','Well']
-var yellows = ['Bakery','Market','Tailor','Theater']
-var blacks = ['Bank','Factory','Trading Post','Warehouse']
+var medium = ['L', 'L', 'L', 'L','L','Straight','Straight','Straight','Straight','Straight']
+var large = ['Straight','Straight','Z','Z','L','L', 'Square','Square','T', 'T']
+var giant = ['Straight','U','Long Z','Symmetric Z','Isoceles L','Tall L', 'Square', 'T', 'Cross','L with little square', 'Long T', 'Square with bit', 'W']
 
-function newQuote() {
-	var randomNumber = Math.floor(Math.random() * (blues.length));
-	document.getElementById('blueDisplay').innerHTML = blues[randomNumber]
+function newQuote(players) {
+    
+	shuffleArray(medium)
+    let dismedium = medium.slice(0,players)
+	document.getElementById('mediumDisplay').innerHTML = strmedium
 
-	randomNumber = Math.floor(Math.random() * (oranges.length));
-	document.getElementById('orangeDisplay').innerHTML = oranges[randomNumber]
+    let dislarge = large.slice(0,players)
+	document.getElementById('largeDisplay').innerHTML = large
 
-	randomNumber = Math.floor(Math.random() * (reds.length));
-	document.getElementById('redDisplay').innerHTML = reds[randomNumber]
+    let disgiant = giant.slice(0,players)
+	document.getElementById('giantDisplay').innerHTML = giant
 
-	randomNumber = Math.floor(Math.random() * (greens.length));
-	document.getElementById('greenDisplay').innerHTML = greens[randomNumber]
-
-	randomNumber = Math.floor(Math.random() * (grays.length));
-	document.getElementById('grayDisplay').innerHTML = grays[randomNumber]
-
-	randomNumber = Math.floor(Math.random() * (yellows.length));
-	document.getElementById('yellowDisplay').innerHTML = yellows[randomNumber]
-
-	randomNumber = Math.floor(Math.random() * (blacks.length));
-	document.getElementById('blackDisplay').innerHTML = blacks[randomNumber]
+}
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
 }
