@@ -1,7 +1,7 @@
-var medium = ['3L.png', '3L.png', '3L.png', '3L.png','3L.png','3I.png','3I.png','3I.png','3I.png','3I']
-var large = ['4I.png','4I.png','4Z.png','4Z.png','4L.png','4L.png', '4O.png','4O.png','4T.png', '4T']
-var giant = ['5I.png','5U.png','5offZ.png','5evenZ.png','5evenL.png','5evenL.png', '5T.png', '5+.png','5off+.png', '5offT.png', '5offO.png', 'W']
-var basepath = '../../images/grandcarnival/'
+var medium = ['3L.png', '3L.png', '3L.png', '3L.png','3L.png','3I.png','3I.png','3I.png','3I.png','3I.png']
+var large = ['4I.png','4I.png','4Z.png','4Z.png','4L.png','4L.png', '4O.png','4O.png','4T.png', '4T.png']
+var giant = ['5I.png','5U.png','5offZ.png','5evenZ.png','5evenL.png','5evenL.png', '5T.png', '5+.png','5off+.png', '5offT.png', '5offO.png', 'W.png']
+var basepath = '../images/grandcarnival/'
 
 function newQuote(players) {
     if (players == 2) {
@@ -24,14 +24,14 @@ function newQuote(players) {
 	shuffleArray(large)
     var dislarge = large.slice(0,players)
     dislarge.forEach(img => {
-        var image =  '<img src="' + basepath + img + '"' + ' alt="">';
+        var image =  '<img src="' + basepath + img + '"' + ' alt="">';``
 	    document.getElementById('largeDisplay').innerHTML += image
     })
 
 	shuffleArray(giant)
     var disgiant = giant.slice(0,players)
     disgiant.forEach(img => {
-        var image =  '<img src="' + basepath + img + '"' + ' alt="">';
+        var image =  '<img src="' + basepath + img + '"' + ' alt="">';``
 	    document.getElementById('giantDisplay').innerHTML += image
     })
 
