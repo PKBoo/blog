@@ -22,4 +22,4 @@ these are just how i feel about things in board games, from the perspective of s
 i'm sick
 
 also here's a thing i made  
-<script src="{{ site.baseurl }}{% link assets/js/grandcarnivalrandomizer.js %}" </script>
+<script src="{{ site.baseurl }}{% link assets/grandcarnivalrandomizer.js %}" </script>
