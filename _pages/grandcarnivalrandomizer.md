@@ -5,7 +5,7 @@ permalink: /grandcarnivalrandomizer/
 
 ---
 also here's a thing i made  
-<script src="{{ site.baseurl }}{% link assets/grandcarnivalrandomizer.js %}"> </script>
+<script src="{{ site.baseurl }}{% link assets/grandcarnival.js %}"> </script>
 <div id="mediumDisplay">Medium</div>
 <div id="largeDisplay">Large</div>
 <div id="giantDisplay">Giant</div>

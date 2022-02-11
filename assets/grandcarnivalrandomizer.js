@@ -1,4 +1,4 @@
-var medium = ['3L', '3L', '3L', '3L','3L','3O','3I','3I','3I','3I']
+var medium = ['3L', '3L', '3L', '3L','3L','3I','3I','3I','3I','3I']
 var large = ['4I','4I','4Z','4Z','4L','4L', '4O','4O','4T', '4T']
 var giant = ['5I','5U','5offZ','5evenZ','5evenL','5evenL', '5T', '5+','5off+', '5offT', '5offO', 'W']
 
