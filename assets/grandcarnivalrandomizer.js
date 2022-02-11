@@ -6,13 +6,13 @@ function newQuote(players) {
     
 	shuffleArray(medium)
     let dismedium = medium.slice(0,players)
-	document.getElementById('mediumDisplay').innerHTML = strmedium
+	document.getElementById('mediumDisplay').innerHTML = dismedium
 
     let dislarge = large.slice(0,players)
-	document.getElementById('largeDisplay').innerHTML = large
+	document.getElementById('largeDisplay').innerHTML = dislarge
 
     let disgiant = giant.slice(0,players)
-	document.getElementById('giantDisplay').innerHTML = giant
+	document.getElementById('giantDisplay').innerHTML = disgiant
 
 }
 function shuffleArray(array) {
