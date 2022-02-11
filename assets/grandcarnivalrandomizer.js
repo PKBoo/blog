@@ -1,6 +1,6 @@
 var medium = ['L', 'L', 'L', 'L','L','Straight','Straight','Straight','Straight','Straight']
 var large = ['Straight','Straight','Z','Z','L','L', 'Square','Square','T', 'T']
-var giant = ['Straight','U','Long Z','Symmetric Z','Isoceles L','Tall L', 'Square', 'T', 'Cross','L with little square', 'Straight with bit', 'Square with bit', 'W']
+var giant = ['Straight','U','Long Z','Symmetric Z','Isoceles L','Tall L', 'T', 'Cross','L with little square', 'Straight with bit', 'Square with bit', 'W']
 
 function newQuote(players) {
     if (players == 2) {
