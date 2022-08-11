@@ -35,6 +35,10 @@ defaults:
       path: "posts/teach/_posts/"
     values:
       categories: [TEACH]
+        - scope:
+      path: "posts/misc/_posts/"
+    values:
+      categories: [MISC]
   - scope:
       path: ""
     values:
