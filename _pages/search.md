@@ -5,7 +5,7 @@ permalink: /search/
 ---
 
 <div id="search-container">
-    <input type="text" id="search-input" placeholder="Search by post title...in realtime!">
+    <input type="text" id="search-input" placeholder="Search by post title, in realtime!">
     <ul id="results-container"></ul>
 </div>
 
