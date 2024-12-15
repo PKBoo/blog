@@ -22,7 +22,7 @@ the real issues i have are that to win you need the end game scoring cards, and 
 in race for the galaxy you would make concessions for what 6 cost end game scoring card to keep because the game is too short to play them all
 but in the game you can choose to ignore terraforming mars and just keep building up end game scoring cards and let other players end the game without your help at all
 
-this may be interesting in another game, because did not find it engaging here
+this may be interesting in another game, because I definitely did not find it engaging here
 
 but, i can definitely see that this game is taking the "good" part of terraforming mars and having a "streamlined" version of that game. you'll still have people trying to make an "engine" and spending every turn "running engines" and also have people holding 10 cards in their hand trying to play them all. you can still play this game exactly the same as you did in the original and have a mediocre time. 
 
