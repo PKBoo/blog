@@ -24,7 +24,7 @@ There's no cool build. None of the abilities actually upgrade into a cool abilit
 
 However, there is a second board with some serious stuff and oh boy does this second board have some seriously spicy serious stuff if I say so myself. 
 
-The "main" board that has the tech tree actions are in service of this smaller side board area control game. When you control an area for the first time, you get a little bonus like resources. Or actions that let you get a resource. Huh, kind of like...the tech tree. These areas you control can also be colonized by getting rid of your pawns on the planet to permanently place it into your...tableau...giving you a cool passive that-
+The "main" board that has the tech tree actions are in service of this smaller side board area control game. When you control an area for the first time, you get a little bonus like resources. Or actions that let you get a resource. Huh, kind of like...the big "tech tree" hogging all the attention. These areas you control can also be colonized by getting rid of your pawns on the planet to permanently place it into your...tableau...giving you a cool passive that-
 
 -might be the entire point of this game? Spicy.
 
@@ -32,4 +32,4 @@ This little side board contains the missing intrique and discovery and developme
 
 A tech tree should spark your imagination and give you that feeling of wanting to try a cool build or wanting to get to a certain tech. It's genuinely disappointing when this very large and visually impressive slab of cardboard pretends to have one, but luckily there is a smaller little spicy piece of cardboard that manages to colonize that feeling (spicy).
 
-(The joke is that the game still uses the word colonization in a game that doesn't need to that word and I'm misusing it in a similarly uncomfortable way ha ha ha.)
+(The joke is that the game still uses the word colonization in a game that doesn't need to use that word and I'm misusing it in a similarly uncomfortable way ha ha ha.)
