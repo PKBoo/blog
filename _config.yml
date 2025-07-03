@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: NOW THAT'S WHAT I BETTER CALL PAUL BAORD GJAMES BLOG
+name: NOW THAT'S WHAT I BETTER CALL PAUL BAORB GJAMES BLOG
 
 # Name of the author
 author: PK
@@ -116,7 +116,7 @@ plugins:
 
 include: ["_pages"]
 
-paginate: 10
+paginate: 100
 paginate_path: /page:num/
 
 # Exclude these files from your production _site
