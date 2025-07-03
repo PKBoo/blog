@@ -526,6 +526,13 @@ body:after {
   text-align: center;
 }
 */
+
+.search-tags {
+  margin-top: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
 .post-tag {
 	display: inline-block;
 	background: rgba(106, 159, 181, 0.15);
