@@ -28,8 +28,8 @@ thought the 6 player game would teach Paul about the joy of relying on your team
 
 One of the new additions to Uprising is the ability to gain Spies. Place a spy on an action and on a future turn, you can spend it to place your worker on that action whether or not there was a worker already there. Spicy. Why is this important? Well, in the first game, there was a crazy space that basically said, "If you take this spot, you get a point this round". Remember in a 10 point game, doing that every round is a pretty big deal. Really, the space was called Heighliner. The details are actually that the space lets you get 5 garrisoned troops, and troops are used to increase your strength value to win the combat at the end of the round. Winning combat give you a reward, and in the latter half of the game that's normally a point. In Uprising, not only do points come earlier and faster, in a 6 player game there's 6 people adding troops into the battle. So imagine the Spy, placed at the Heighliner, patiently waiting to be used to counter another player's Heighliner. Heighliners for everybody. 
 
-Most importantly, the biggest new addition to the 6 player game is the addition of 2 asymmetric players. One, the emperor of the known universe and controller of the Harkkonen, Shaddam IV leader of House Corrino aka Christopher Walken (no not joking). The other, Desert Mouse aka Muad'Dib aka Timothée Chalamet aka Kwisatz Haderach aka leader of the Freman. Each of these players play normally except, they do not score points via the normal means in the game. They have no access to points in combat, and cannot score points by going up the guild tracks. Instead, they play support, pushing up one of their other two teammates throughout the game and sometimes unintentionally committing them to progress they weren't expecting.   
-Not expecting? Well.
+Most importantly, the biggest new addition to the 6 player game is the addition of 2 asymmetric players. One, the emperor of the known universe and controller of the Harkkonen, Shaddam IV leader of House Corrino aka Christopher Walken (no not joking). The other, Desert Mouse aka Muad'Dib aka Timothée Chalamet aka Kwisatz Haderach aka leader of the Freman. Each of these players play normally except, they do not score points via the normal means in the game. They have no access to points in combat, and cannot score points by going up the guild tracks. Instead, they play support, pushing up one of their other two teammates throughout the game and sometimes unintentionally committing them to progress they weren't expecting.    
+Not expecting? Well didn't I mention no one knows your plans?
 
 # Wheels Within Wheels
 
@@ -55,7 +55,7 @@ The other option? Become a mind reader.
 No, literally.    
 Part of the magic of the first game was realizing the pain of worker placement. Oh dear I hope no one takes the spots I needed oh damn my own teammate took my spot I guess I'll complain and whine to them. Then, you try to start seeing the future. You know what you have to do, and what the other team is trying to do. Each player has 2 workers, so you compute each possibility and determine what you can and can't say to your own team to alert them that plans are in motion. Either you're playing linebacker for your team or the wide-receiver scoring points.     
 No quarterback.    
-And plus, anything you say to your team needs to be said in public. Crosstalk fully enabled.    
+And plus, anything you say to your team needs to be said in public.     Crosstalk fully enabled.    
 
 There's not much more about 6 player Dune: Imperium that is special mechanically. Everything comes down to how much you care about team play and if you think that mind reading in board games is cool.    
 Almost feels like instead of representing an entire guilds, you're a singular fortune telling space witch speaking in riddles and predestined to win a board game.
