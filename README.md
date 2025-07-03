@@ -1,4 +1,4 @@
-https://pkboo.github.io/blog/  
+https://PKBoo.github.io/blog/  
 [![pages-build-deployment](https://github.com/PKBoo/blog/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/PKBoo/blog/actions/workflows/pages/pages-build-deployment)
 
 template: https://github.com/amitmerchant1990/reverie
