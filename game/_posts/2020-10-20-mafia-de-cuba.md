@@ -20,7 +20,7 @@ So in regular deduction games, sharing knowledge is just throwing the game. It's
 
 It is a specific sharing of knowledge that makes these games very clever. In the social deduction games I like, there is still actual deduction to be done based on the actions of other players, and the goal of these deductions is two things:
 
-1) Deduce the motivation of the player
+1) Deduce the motivation of the player    
 2) Deduce the state of mind that make their actions most likely
 
 And the crucial part of many of these games (which some games take for granted aka Secret Hitler) is that players may not physically show secret information, but they may vocally reveal this information. What I mean is, players can say whatever information they want. This makes social deduction games either pretty cool or dogshit. Here's a short story:
@@ -41,7 +41,7 @@ In social deduction games, people are all offering their information in hopes th
 
 The only reason this works is because most good social deduction games have an aspect of imperfect information. There is an amount of probability that goes into making decisions, and you are dependent on other people's information. This is very important, otherwise you would be playing a very dull game where everyone knows everything at all points and moves are made very carefully with mistakes being rare. This kills the game.
 
-Essentially what I'm trying to say is being a god gamer and figuring out paths to short-circuit win is fun. I will lie about what I saw if I know someone will believe me if that means our team wins.
+Essentially what I'm trying to say is being a god gamer and figuring out paths to short-circuit a win is fun. I will lie about what I saw if I know someone will believe me if that means our team wins.
 
 #### Thoughts on actual games
 
@@ -51,8 +51,8 @@ So I rambled for a bit about social deduction games so here are some objective f
 
 Mafia de Cuba takes social deduction and puts it through a food processor and unfortunately you are playing the game that is currently spinning furiously in the processor instead of the smooth, pasty aftermath. It gives players an interesting proposition: You can make the game as complicated or simple as you want. It gives every player the option of keeping the game barebones by joining 1 of the 2 factions. But if you want, you can become a double agent, or a triple agent, or just a regular agent, but changes to a triple agent. Just having so many agents makes the game hard to read clearly, and hard to develop a language to learn the game. It's ugly and egregiously complex and I guess given enough time it would eventually be fun to play.
 
-Among Us is a beautiful, elegant game of deception. It is so perfectly creates emergent social behaviors and causes players to organically learn exactly what to look for when searching for clues. It takes concepts of time and space and challenges your mind to make assumptions and assign probabilities. There is so many ways for a player to express their skill in the game while still playing to win. It gives so much agency to how players want to create tactics or strategies, and allows for so many variations while still holding true of the tenants of great social deduction games. 
+Among Us is a beautiful, elegant game of deception. It so perfectly creates emergent social behaviors and causes players to organically learn exactly what to look for when searching for clues. It takes concepts of time and space and challenges your mind to make assumptions and assign probabilities. There is so many ways for a player to express their skill in the game while still playing to win. It gives so much agency to how players want to create tactics or strategies, and allows for so many variations while still holding true of the tenants of great social deduction games. 
 
-It's a great genre for exploring different ways to have fun playing a game, and unfortunately it will always be a genre gives an excuse for people to be emotional terrorists. 
+It's a great genre for exploring different ways to have fun playing a game, and unfortunately it will always be a genre gives an excuse for players to put on the mask of pure emotional terrorists. 
 
 What a tweest!
