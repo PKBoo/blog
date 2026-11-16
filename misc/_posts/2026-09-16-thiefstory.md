@@ -13,6 +13,8 @@ we were making great progress and by that i meant the rest of the team was fumbl
 i did a bad thing.    
     
 
-the thief player immediately stood up and said "just because you've played so many more games than i have and i know that i'm not as good at games as you doesn't mean you have to comment on the moves i make ok? I was fine with the game before you said anything."    
+the thief player immediately stood up and said:      
+
+>"Just because you've played so many more games than I have so you have a lot more experience with these kinds of games. I know that I'm not as good at games as you but that does not mean you have to comment on the moves I make, ok? I was not having a bad time and I was fine with the game before you said anything."    
 
 what am i doing in games bro i just say shit damn i don't even know why this is a blog this is just shit that happens man.
