@@ -1,7 +1,7 @@
 ---
 title: "Why is the thief tanking bro: a memoir"
-tag: [story time]
-excerpt: why man
+tag: [storytime]
+excerpt: my bad man
 ---
 
 
